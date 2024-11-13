@@ -7,6 +7,6 @@ There are four main files:
 
 The data file: ANES2020coded.csv \
 The data codebook: ANESCodebook2022.xlsx \
-The primary Rmd file: FauciModel.Rmd \
-A short analysis: Fauci_Model_Analysis.pdf
+The primary Python file: FauciModel.Rmd \
+A short analysis: NY_Broadband_Analysis.pdf
 
