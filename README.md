@@ -7,10 +7,13 @@ There are four main files:
 
 The data file: ANES2020coded.csv \
 The data codebook: ANESCodebook2022.xlsx \
-The US Census Cartographic Boundary files: https://shorturl.at/lQ8Vx
+The US Census Cartographic Boundary files: Carto.csv \
 The primary JuPyter file: NY_Broadband_Model.py \
 A short analysis: NY_Broadband_Analysis.pdf
 
-Additional notes on the ANES 2020 data:
+Additional notes on the 2015 US CB Cartographic Boundary files:
 
-The variables are connected to the ANES survey in the data dictionary and the codebook for the survey is in the associated PDF. The variables have been recoded for direction and scaled to facilitate meaningful interpretations of the coefficients. You can find details of the study and a full version of the codebook at: https://electionstudies.org/project/2020-time-series-study/. The ANES study interviewed respondents in a pre-election survey that was conducted between August 18, 2020 and November 3, 2020. Election day was November 3, 2020. The study re-interviewed as many as possible of the same respondents in a post-election survey that was conducted between November 8, 2020 and January 4, 2021.
+The variables are connected to the ANES survey in the data dictionary and the codebook for the survey is in the associated PDF. The variables have been recoded for direction and scaled to facilitate meaningful interpretations of the coefficients. 
+
+You can find details of the study and a full version of the codebook at: https://shorturl.at/lQ8Vx
+. The ANES study interviewed respondents in a pre-election survey that was conducted between August 18, 2020 and November 3, 2020. Election day was November 3, 2020. The study re-interviewed as many as possible of the same respondents in a post-election survey that was conducted between November 8, 2020 and January 4, 2021.
