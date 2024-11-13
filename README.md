@@ -7,6 +7,6 @@ There are four main files:
 
 The data file: ANES2020coded.csv \
 The data codebook: ANESCodebook2022.xlsx \
-The primary Python file: NY_Broadband_Model.py \
+The primary JuPyter file: NY_Broadband_Model.py \
 A short analysis: NY_Broadband_Analysis.pdf
 
