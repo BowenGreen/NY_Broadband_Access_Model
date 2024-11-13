@@ -7,7 +7,7 @@ There are four main files:
 
 The data file: ANES2020coded.csv \
 The data codebook: ANESCodebook2022.xlsx \
-The US Census Cartographic Boundary files: https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.2015.htmllist-tab-1556094155\
+The US Census Cartographic Boundary files: https://shorturl.at/lQ8Vx \ 
 The primary JuPyter file: NY_Broadband_Model.py \
 A short analysis: NY_Broadband_Analysis.pdf
 
