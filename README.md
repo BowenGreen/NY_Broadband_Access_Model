@@ -5,8 +5,13 @@ How to engage:
 
 There are five main files:
 
-The data file: ANES2020coded.csv \
-The data codebook: ANESCodebook2022.xlsx \
+The US 2019 FCC data: https://shorturl.at/Tqiib \
+The US 2015 CB Cartographic data: https://shorturl.at/lQ8Vx \
+
+
+
+
+
 The primary JuPyter file: NY_Broadband_Model.ipynb \
 A short analysis: NY_Broadband_Analysis.pdf
 
