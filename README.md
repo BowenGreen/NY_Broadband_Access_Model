@@ -7,7 +7,7 @@ There are five main files:
 
 The US 2019 FCC data, found here: https://shorturl.at/Tqiib \
 The US 2015 CB Cartographic data, found here: https://shorturl.at/lQ8Vx \
-The primary JuPyter file: NY_Broadband_Model.ipynb \
+The primary python file: NY_Broadband_Model.ipynb \
 A short analysis: NY_Broadband_Analysis.pdf
 
 Additional notes on the 2015 US CB Cartographic Boundary files:
